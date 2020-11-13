@@ -38,5 +38,4 @@ ouroborosというのが面白そうだと思ったけど、具体例がない�
 ただこの鍵交換には認証機能がついていないので、現代風な認証機能付き鍵交換ではないというのが問題だと思う。
 そこで、シンドロームベースのNiederreiter署名を使って認証の代わりにならないかと思っている。
 
-Niederreiter署名については、私のリポジトリにあるCode Based Signatureの、
-Fiat-Shamir方式を使った署名法が既に実装してあります。
+符号ベースのFiat-Shamir署名は、私のリポジトリにあるCode Based Signatureに実装してあります。
